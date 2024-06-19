@@ -28,7 +28,7 @@ S3를 통해서 이미지를 업로드하고 받아올 수 있습니다.
 
 프론트 코드와 백엔드 코드 모두 클론합니다.
 
-[백엔드 코드](https://github.com/keinn51/q_board_server)
+https://github.com/toy-project-kyungsle/q-board-server
 
 **1. EC2의 인스턴스를 만들어 서버를 엽니다**
 
